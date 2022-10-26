@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Sandra Sarpong - [Github](https://github.com/SandraSarpong)  
-Brenda Agyekum - [Github](https://github.com/Brenda-17) 
+Caleb Makafui - [Github](https://github.com/KojoMarko)  
+Esther Asare - [Github](https://github.com/Efisassy) 
 
 Second part of Airbnb: Joann Vuong
 ## License
